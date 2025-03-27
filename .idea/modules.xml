@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array_sum/Array_sum.iml" filepath="$PROJECT_DIR$/Array_sum/Array_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Placement-Series-main.iml" filepath="$PROJECT_DIR$/.idea/Placement-Series-main.iml" />
+    </modules>
+  </component>
+</project>
