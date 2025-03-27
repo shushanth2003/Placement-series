@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Array_sum/Array_sum.iml" filepath="$PROJECT_DIR$/Array_sum/Array_sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Placement-Series-main.iml" filepath="$PROJECT_DIR$/.idea/Placement-Series-main.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Placement-Series.iml" filepath="$PROJECT_DIR$/.idea/Placement-Series.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Placement_Series.iml" filepath="$PROJECT_DIR$/Placement_Series.iml" />
+>>>>>>> bad4bc81cffec424f68ecc67a5bf457dc35ed86d
+>>>>>>> 3692f130472b79bf0d00dd8cf67756474bd6f481
     </modules>
   </component>
 </project>
