@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Placement-Series.iml" filepath="$PROJECT_DIR$/.idea/Placement-Series.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Placement_Series.iml" filepath="$PROJECT_DIR$/Placement_Series.iml" />
+>>>>>>> bad4bc81cffec424f68ecc67a5bf457dc35ed86d
+    </modules>
+  </component>
+</project>
